@@ -5,7 +5,6 @@ comments: true
 permalink: "Week-10"
 
 ---
-{% include countdown.html %}
 
 *Welcome to my blog!* I write here about my journey as a first-time entrepreneur.
 
