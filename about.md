@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-###Thorben Andresen
+###Oliver
 
 In 2014, I quit my job and moved from Copenhagen to New York City to start my own software business. This blog documents my journey as a first-time entrepreneur. My mission is to bring mobile payments to soloprenuer businesses.
 
