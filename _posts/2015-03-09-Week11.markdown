@@ -1,0 +1,51 @@
+---
+layout: page
+title: "Week 11: A New Sense of Direction" 
+comments: true
+permalink: "Week-11"
+
+---
+{% include countdown.html %}
+
+*Welcome to my blog!* I write here about my journey as a first-time entrepreneur.
+
+-----
+So this is kind of the moment of truth, because I have promised to to decide on one or more niches to focus on by March 6th. And so I did! All that research of the last two weeks enabled my to connect a lot of dots and helped me to craft a  clear vision. This revived sense of direction id very motivating and I cant wait to get my new ideas out there. 
+ 
+###Niches
+Instead of focusing on a specific niche, I focus on a set of niches which are matching the following criteria:
+
+* Are freelancers, aka. soloprenuers, aka. 1099ers (named after the IRS tax form which they use to report their earnings)
+* Working mainly remotely
+* Working mainly in front of a computer
+* Invoice often
+* Require flexible billing options (one-time, recurring payments, etc.) 
+* Are not regulated 
+* Do not use specialized billing standards (such as medical billing codes, etc) 
+
+Based on these criteria, I have decided to focus on what I would call "web-based (or browser-based) freelancers" which would be in the ballpark of two million Americans:
+
+* Web Developers
+* Software Developers
+* Online Marketing Experts
+* Writers
+* Illustrators, Designers & other Creatives
+* Virtual Assistants
+* Life & Business Coaches
+* Independent Consultants
+
+I know, having several niches is not exactly following the philosophy of the bootstrapping gurus over at [The Foundation.io](http://www.thefoundation.io) or [Rob Wallin] (http://www.softwarebyrob.com). Sure, its not as easy to market to several niches at the same time as it would be with one niche. However I think that this group of niches is very homogeneous in terms of how they would use my app. And if this assumption turns out to be false, it is still possible to drop a niche without having wasted too much resources. 
+
+Furthermore, there are many freelancer who offer services in more than one of these groups. I don't want to loose leads by giving the impression that this product would only be beneficial for a certain niche. Its not! It could be even very beneficial for more niches then the ones I listed above. The main point I am making is that I am focusing on users with a certain common workflow and problem, not a common profession name. 
+
+###Goals
+
+Now that I have a re-established my hypothesis of the product-market fit, I need to move into validation stage. You can thank [Eric Ries](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898) for making my last sentence sound so fancy. So by this week I want reach the following goals.
+
+* **Crafting a new version of my mockup** This will help the get the ideas in my head in concrete concepts and help me to communicate it with my potential clients, co-founders and/or developers.
+
+* **Reach out to 20 new prospects** I expect to be tied up all week in the development of the new mockup, but I want to get the ball rolling anyways.  My goal is to get 5 pre-sales before I got into development. 
+
+Alright, I better get to work now! Current excitement levels are high so I need to take advantage of that momentum. 
+
+{% include twitter_plug.html %}

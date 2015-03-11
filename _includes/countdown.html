@@ -1,0 +1,15 @@
+<!--Countdown until launch - <span class="post-date"><i><b id="countdown-holder"></b></i></span>-->
+<b>Countdown until launch on May 15th</b> <text id="countdown-holder" class="post-date"></text>
+<script src="../assets/js/countdown.js"></script>
+
+<script>
+  var clock = document.getElementById("countdown-holder")
+    , targetDate = new Date(2015, 04, 15); 
+ 
+  clock.innerHTML = countdown(targetDate, null, null,5).toString();
+  setInterval(function(){
+    clock.innerHTML = countdown(targetDate, null, null,5).toString();
+  }, 1000);
+  /** http://countdownjs.org/readme.html
+  https://blog.smalldo.gs/2013/12/create-simple-countdown**/
+</script>
